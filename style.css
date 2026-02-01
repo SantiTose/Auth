@@ -51,7 +51,6 @@ body {
     padding: 8px 4px;
     margin: 0px 1px 10px -5px;
 }
-
 .rellenar label{
     position: absolute;
     top: 8px;
@@ -91,6 +90,17 @@ body {
 }
 
 input[type="submit"]{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #00bc44;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input[type="button"]{
     width: 100%;
     padding: 10px;
     border: none;
