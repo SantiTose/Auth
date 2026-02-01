@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 1em;
     font-family: montserrat;
-    background-color: aqua;
+    background: linear-gradient(100deg, #F54927, #F0A118);
     display: flex;
     justify-content: center;
     align-items: center;
